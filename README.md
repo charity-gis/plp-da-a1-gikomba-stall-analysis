@@ -8,3 +8,7 @@ Wanjiku runs a fresh-produce stall at Gikomba Market. For the last two weeks she
 # A “How to run” line with an Open in Colab link to the notebook.
 
 # Your top three findings, each with a number
+Top three findings
+1. Sales increased by 10.66% from KES 22,050 in Week 1 to KES 24,400 in Week 2.
+2. Weekend average sales were KES 4,900, which was 82.50% higher than the weekday average of KES 2,685.
+3. Tomatoes and Sukuma need restocking: current quantities were 18 kg and 9 kg respectively, both at or below their reorder levels.

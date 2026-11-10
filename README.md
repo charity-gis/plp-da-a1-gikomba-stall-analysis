@@ -6,6 +6,7 @@
 Wanjiku runs a fresh-produce stall at Gikomba Market. For the last two weeks she has written her daily sales in a notebook, and she keeps a rough record of stock. She has hired you as a freelance analyst to answer: How is my business doing? Is it growing? What should I restock, and where should I focus?
 
 # A “How to run” line with an Open in Colab link to the notebook.
+Open the notebook in Google Colab:[open in colab](https://colab.research.google.com/github/charity-gis/plp-da-a1-gikomba-stall-analysis/blob/main/stall_analysis.ipynb)
 
 # Your top three findings, each with a number
 Top three findings
